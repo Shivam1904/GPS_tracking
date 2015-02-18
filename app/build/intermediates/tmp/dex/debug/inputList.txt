@@ -1,0 +1,2 @@
+C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\classes\debug
+C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-fde43af261b5301dae6d9fa1448a146d0cab76a0.jar
