@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
 					double lng=gpsin.getLongitude();
 					Toast.makeText(MainActivity.this, "Your Current latitude is "+lat+" and your longitude is "+lng, Toast.LENGTH_LONG).show();
 				
-					gpsin.getAddress(lat, lng);
+
 					}
 				
 				
