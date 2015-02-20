@@ -2,11 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Shivam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-fde43af261b5301dae6d9fa1448a146d0cab76a0.jar" />
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\pre-dexed\debug\classes-e4b9536b0da0518b2332ce3362067889a2d5adac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shivam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-fce7a070ea015bb52eeef4efe0430da83693b7f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-482bbba63cffe27eb3129509520d796a872954aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\GPS_tracking\app\build\intermediates\pre-dexed\debug\classes-7e2240191cfe60f9b9ce7ce2ce1744f1158b0de2.jar" />
     </item>
 
 </items>
