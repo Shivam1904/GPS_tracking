@@ -37,13 +37,13 @@ public class MainActivity extends Activity {
 					double lat=gpsin.getLatitude();
 					double lng=gpsin.getLongitude();
 					Toast.makeText(MainActivity.this, "Your Current latitude is "+lat+" and your longitude is "+lng, Toast.LENGTH_LONG).show();
-                    final LatLng HAMBURG = new LatLng(lat, lng);
+                    final LatLng cloc = new LatLng(lat, lng);
                     map = ((MapFragment) getFragmentManager().findFragmentById(R.id.map)).getMap();
-                    Marker hamburg = map.addMarker(new MarkerOptions().position(HAMBURG)
+                    Marker hamburg = map.addMarker(new MarkerOptions().position(cloc)
                             .title("Hamburg"));
 
                     // Move the camera instantly to hamburg with a zoom of 15.
-                    map.moveCamera(CameraUpdateFactory.newLatLngZoom(HAMBURG,35));
+                    map.moveCamera(CameraUpdateFactory.newLatLngZoom(cloc,35));
 
                     // Zoom in, animating the camera.
                     map.animateCamera(CameraUpdateFactory.zoomTo(10), 2000, null);
